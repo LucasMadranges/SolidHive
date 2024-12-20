@@ -37,7 +37,7 @@ export default function Home() {
                         <div className="space-y-4 lg:space-y-6 w-7/12">
                             <div className="space-y-2">
                                 <h1 className="font-black tracking-tighter text-6xl text-primary-purple">
-                                    La Ruche Qui Fait Bourdonner la Solidarité !
+                                    La <span className="text-primary-cyan">Ruche</span> Qui Fait Bourdonner la <span className="text-primary-cyan">Solidarité</span> !
                                 </h1>
                                 <p className="max-w-[700px] text-lg text-black">
                                     Connectez-vous avec des associations, participez à des événements et contribuez à
